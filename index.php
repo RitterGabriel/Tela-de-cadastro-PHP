@@ -9,7 +9,7 @@
 <body>
     <p>
     
-        <a href="cadastro.php">Fazer cadastro</a>
+        <a href="cadastro.php">Cadastro</a>
     </p>
     <p>Seja bem vindo!</p>
 
